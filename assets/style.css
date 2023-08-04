@@ -1,11 +1,16 @@
 body, div, button {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
     background-color: #f393b8;
 }
 .foto img {
     border-radius: 170px;
+    height: 300px;
+    width: 300px;
 }
 .btn {
     background-color: #f56ca1;
+    border-radius: 4px;
 }
